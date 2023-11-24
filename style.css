@@ -1,0 +1,51 @@
+/*
+@Autor: Jéssica
+ */
+
+body {
+    text-align: center;
+    background-color: #1f1e1e;
+}
+
+#titulo{
+    text-align: center;
+    color: #a90808;
+    font-size: 90px;
+    margin-top: 0px;
+}
+
+#subtitulo{
+    font-family: 'Bebas Neue', sans-serif;
+    color: #a90808;
+    font-size: 27px;
+    text-align: left;
+}
+
+#nacionais{
+    color: #8a0d0d;
+    font-size: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+}
+
+#itens{
+    color: #b69a9a;
+    font-size: 35px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+}
+
+#internacionais{
+    color: #8a0d0d;
+    font-size: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+}
+
+#itens2{
+    color: #b69a9a;
+    font-size: 35px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+}
+
